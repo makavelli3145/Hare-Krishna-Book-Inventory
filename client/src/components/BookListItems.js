@@ -10,7 +10,7 @@ items: [
 { id: uuid(), name: 'The science of self realization' },
 { id: uuid(), name: 'Bhagavad Gita As it is' },
 { id: uuid(), name: 'Journey to other planets' },
-{ id: uuid(), name: 'The Mahabarata' }
+{ id: uuid(), name: 'The Mahabarata'}
 ]
 }
 
